@@ -8,3 +8,4 @@ ReactDom.render(
     </div>,
     document.getElementById('root')
 )
+console.log('Oiiii')
